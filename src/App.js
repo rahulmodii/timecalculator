@@ -36,7 +36,7 @@ class App extends React.Component {
           value={this.state.fromtimer}
         />
         <Card>
-          <Card.Body style={{fontSize:200}}>{this.state.time}Today you dumbfuck</Card.Body>
+          <Card.Body style={{fontSize:100}}>{this.state.time}Today you dumbfuck</Card.Body>
         </Card>
       </div>
     );
